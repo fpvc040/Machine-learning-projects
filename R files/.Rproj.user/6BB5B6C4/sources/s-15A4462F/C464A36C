@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553100691691.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3554545775",
+    "id" : "C464A36C",
+    "lastKnownWriteTime" : 1553100923,
+    "last_content_update" : 1553101023610,
+    "path" : "C:/Users/Administrator/Desktop/Machine learning/R files/machine learning markdown.Rmd",
+    "project_path" : "machine learning markdown.Rmd",
+    "properties" : {
+        "cursorPosition" : "19,0",
+        "last_setup_crc32" : "15A4462Fbb338d19",
+        "scrollLine" : "15",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
